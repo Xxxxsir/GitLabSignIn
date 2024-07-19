@@ -1,5 +1,5 @@
 # MyGit
-A Automatic check-in software designed by Xxxxsir👀
+A Automatic check-in software designed by Xxxxsir👀 for those in the WHU cyberspace security summer school
 
 #how to use
 

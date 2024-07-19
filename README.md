@@ -1,4 +1,4 @@
-# MyGit
+# GitlabSigner
 A Automatic check-in software designed by Xxxxsir👀 for those in the WHU cyberspace security summer school
 
 #how to use
